@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhaumikrd
 - 👀 I’m interested in web application development
-- 🌱 I’m currently learning/mastering API development using NestJS
+- 🌱 I’m currently learning/mastering React/NodeJS/Python
 - 💞️ I’m looking to collaborate on SAAS ideas
 - 📫 How to reach me? www.f12media.com
 
